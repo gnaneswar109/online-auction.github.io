@@ -24,7 +24,7 @@ Router.post('/', async (req, res) => {
   console.log(otp);
 
   const mailOptions = {
-    from: '',
+    from: 'gnaneswar9676@gmail.com',
     to: email,
     subject: 'OTP',
     text: `Your OTP is: ${otp}`,
