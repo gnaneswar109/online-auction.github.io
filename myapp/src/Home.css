@@ -1,0 +1,10 @@
+/* Home.css */
+.body-background {
+    background-image: url('./Image.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 100vh;
+
+  }
+  

@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.auth-form-container {
+  background: linear-gradient(to right, #0000FF, #FF0000, #FFFF00);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.transparent-element {
+  opacity: 5; /* You can adjust the opacity value from 0 (fully transparent) to 1 (fully opaque) */
+}
+
+.transparent-div {
+  opacity: 1; /* Adjust the value between 0 (fully transparent) and 1 (fully opaque) */
+}
